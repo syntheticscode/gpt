@@ -2,6 +2,7 @@ key.py
 *.pkl
 .vscode/
 logs/
+*.*py
 
 # Compiled Python files
 *.py[cod]
